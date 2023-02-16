@@ -10,7 +10,7 @@
 ### Project Name:
 
 
-- Description: 
+**Description:** 
 - Task 51 - Capstone Prohect VII: Unsuperivised Machine Learning
 
 - This data set contains statistics, in arrests per 100,000 residents,
@@ -19,7 +19,9 @@ percent of the population living in urban areas.
 
 - This project explores the differences between various cities using unsupervised learning methods such as Principal Component Analysis (PCA) and
 various clustering techniques. The dataset we will be exploring contains data on 50
-cities. There are 4 variables for each city in total, including variables for 'Urban population' and 'Assault'.
+cities. 
+
+- There are 4 variables for each city in total, including variables for 'Urban population' and 'Assault'.
 
 
 
@@ -36,8 +38,7 @@ cities. There are 4 variables for each city in total, including variables for 'U
 
 - In order to work through this notebook, you need to run each cell individually to recreate the intended output.
 
-
-- A Biplot, produced from a standard 
+- A Biplot, produced from a standardardised variable PCA Analysis.
 
 ![image](https://user-images.githubusercontent.com/122671771/219451250-da2d7481-69c5-4845-9f35-4cf5c59c91b7.png)
 
