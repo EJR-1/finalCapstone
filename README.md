@@ -25,9 +25,9 @@ locally.
 they’ve installed it. 
 
 
-- Include screenshots of your project in action.
+- (Removal) Include screenshots of your project in action.
 
-![image](https://user-images.githubusercontent.com/122671771/219449874-5c9c180d-5f22-45cd-8d32-e0e3eff834d5.png)
+- A Biplot, produced from a standard 
 
 
 - A Hierachical cluster plot
