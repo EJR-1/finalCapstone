@@ -22,7 +22,17 @@ the importance of your project, and what it does.
 locally.
 
 - A usage section that instructs others on how to use your project after
-they’ve installed it. Include screenshots of your project in action.
+they’ve installed it. 
+
+
+- Include screenshots of your project in action.
+
+![image](https://user-images.githubusercontent.com/122671771/219449874-5c9c180d-5f22-45cd-8d32-e0e3eff834d5.png)
+
+
+- A Hierachical cluster plot
+
+![image](https://user-images.githubusercontent.com/122671771/219450150-7c15fe27-20f0-463f-b88f-f55e47b0589a.png)
 
 
 ### Usage Section
