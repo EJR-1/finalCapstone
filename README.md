@@ -29,6 +29,7 @@ they’ve installed it.
 
 - A Biplot, produced from a standard 
 
+![image](https://user-images.githubusercontent.com/122671771/219451250-da2d7481-69c5-4845-9f35-4cf5c59c91b7.png)
 
 - A Hierachical cluster plot
 
