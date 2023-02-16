@@ -29,7 +29,7 @@ cities.
 
  - The project is contained with a Jupyter notebook.
   1. Create a environment that houses Python
-  2. Within the Juypter Notebook or your terminal, you can install the packages specified at the top of the notebook using pip install name_of_package
+  2. Within the Juypter Notebook or your terminal, you can install the packages specified at the top of the notebook using pip install 'name_of_package'
 
 
 ### Usage Section
