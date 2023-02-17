@@ -51,7 +51,7 @@ cities.
  - None.
 
 
-- **Packages:**
+**Packages:**
  1. Sklearn
  2. Scipy
  3. Matplotlib
