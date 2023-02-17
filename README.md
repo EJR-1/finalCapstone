@@ -3,10 +3,9 @@
 ### Table of Contents
 
 - Table of Contents
-  - [Project Name](#project name) 
-  - [Usage Section](#usage section)
-  - [Installation Section](#installationsection)
-  - [Installation Section](https://github.com/EJR-1/finalCapstone/blob/main/README.md#usage-section)
+  - [Project Name](https://github.com/EJR-1/finalCapstone/blob/main/README.md#project-name)
+  - [Usage Section](https://github.com/EJR-1/finalCapstone/blob/main/README.md#usage-section)
+  - [Installation Section](https://github.com/EJR-1/finalCapstone/blob/main/README.md#installation-section)
   - [Credits](#credits)
 
 
