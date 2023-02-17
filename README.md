@@ -3,9 +3,9 @@
 ### Table of Contents
 
 - Table of Contents
-  - [Project Name](#Project Name) 
-  - [Usage Section](#Usage Section)
-  - [Installation Section](#Installation Section)
+  - [Project Name](#ProjectName) 
+  - [Usage Section](#UsageSection)
+  - [Installation Section](#InstallationSection)
   - [Credits](#Credits)
 
 
