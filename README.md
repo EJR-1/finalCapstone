@@ -52,9 +52,9 @@ cities.
 
 
 - **Packages:**
- - Sklearn
- - Scipy
- - Matplotlib
+ 1. Sklearn
+ 2. Scipy
+ 3. Matplotlib
 
 
 
