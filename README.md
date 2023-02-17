@@ -3,8 +3,10 @@
 ### Table of Contents
 
 - Table of Contents
-  - Usage Section
-  - Installation Section
+  - [Project Name](#Project Name) 
+  - [Usage Section](#Usage Section)
+  - [Installation Section](#Installation Section)
+  - [Credits](#Credits)
 
 
 ### Project Name:
